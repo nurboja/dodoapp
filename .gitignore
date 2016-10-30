@@ -19,3 +19,8 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+passenger.8080.pid.lock
+passenger.8080.pid
+passenger.80.pid
+ 
+

@@ -48,4 +48,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "unicorn"
 gem "thin"
 gem "passenger"
-gem 'listen', '~> 3.1.5'
+gem 'listen', '~> 3.0.5'
