@@ -1,0 +1,15 @@
+current directory: /var/www/myapp/code/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+/var/www/vhosts/dodo.ba/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20161030-5883-aj7vof.rb extconf.rb
+creating Makefile
+
+current directory: /var/www/myapp/code/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /var/www/myapp/code/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /var/www/myapp/code/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20161030-5883-17omzvp
